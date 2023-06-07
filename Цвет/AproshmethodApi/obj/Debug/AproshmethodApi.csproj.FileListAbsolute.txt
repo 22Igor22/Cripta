@@ -1,0 +1,74 @@
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csprojAssemblyReference.cache
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Form1.resources
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.GenerateResource.cache
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CoreCompileInputs.cache
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.dll
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.dll
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.xml
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.xml
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+C:\University\CourseWork\Protection_of_information\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CopyComplete
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.dll
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.dll
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.xml
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.xml
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.AssemblyReference.cache
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Form1.resources
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.GenerateResource.cache
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CoreCompileInputs.cache
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CopyComplete
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+C:\Локальный диск\Крипта\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.dll
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.dll
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Doc.xml
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.License.xml
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Form1.resources
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+C:\Users\Xiaomi\Desktop\Лаба15\lab13\lab13\AproshmethodApi\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Doc.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.License.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Doc.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.License.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.AssemblyReference.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.SuggestedBindingRedirects.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.Form1.resources
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.GenerateResource.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CoreCompileInputs.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.csproj.CopyComplete
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.pdb

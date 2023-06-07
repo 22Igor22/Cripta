@@ -1,0 +1,56 @@
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Doc.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.License.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Doc.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.License.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\Lab14.csproj.AssemblyReference.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\Lab14.csproj.SuggestedBindingRedirects.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\Lab14.csproj.CopyComplete
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+D:\3 Курс\Крипта\Lab14\AproshmethodApi\obj\Debug\lab14.Form1.resources
+D:\херня\апрош\AproshmethodApi\obj\Debug\Lab14.csproj.AssemblyReference.cache
+D:\херня\апрош\AproshmethodApi\obj\Debug\Lab14.csproj.SuggestedBindingRedirects.cache
+D:\херня\апрош\AproshmethodApi\obj\Debug\lab14.Form1.resources
+D:\херня\апрош\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+D:\херня\апрош\AproshmethodApi\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\херня\апрош\AproshmethodApi\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\херня\апрош\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+D:\херня\апрош\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+D:\херня\апрош\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+D:\херня\апрош\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+D:\херня\апрош\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.Doc.dll
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.License.dll
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+D:\херня\апрош\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.Doc.xml
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.License.xml
+D:\херня\апрош\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+D:\херня\апрош\AproshmethodApi\obj\Debug\Lab14.csproj.CopyComplete
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\Lab14.csproj.AssemblyReference.cache
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\lab14.Form1.resources
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\AproshmethodApi.Properties.Resources.resources
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\AproshmethodApi.exe
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\AproshmethodApi.pdb
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\AproshmethodApi.exe.config
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\AproshmethodApi.exe
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\AproshmethodApi.pdb
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.Doc.dll
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.License.dll
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.Pdf.dll
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Microsoft.mshtml.dll
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.Doc.xml
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.License.xml
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\bin\Debug\Spire.Pdf.xml
+D:\файлы рабочего стола\6 сем\крипта\lab16\Цвет\AproshmethodApi\obj\Debug\Lab14.csproj.CopyComplete

@@ -1,0 +1,19 @@
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.exe
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.deps.json
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.runtimeconfig.json
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.runtimeconfig.dev.json
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.dll
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\bin\Debug\net5.0-windows\Assymetrical Algoritms.pdb
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.csproj.AssemblyReference.cache
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical_Algoritms.Cripta_Lab9.resources
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical_Algoritms.Properties.Resources.resources
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.csproj.GenerateResource.cache
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.AssemblyInfoInputs.cache
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.AssemblyInfo.cs
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.csproj.CoreCompileInputs.cache
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.dll
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\refint\Assymetrical Algoritms.dll
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.pdb
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\Assymetrical Algoritms.genruntimeconfig.cache
+D:\University\3Course\2sem\Cripta\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\net5.0-windows\ref\Assymetrical Algoritms.dll
